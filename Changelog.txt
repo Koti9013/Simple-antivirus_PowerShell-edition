@@ -1,0 +1,8 @@
+v1.5 version
+
+added .exe file as core
+fixed autoupdate in .exe file
+
+also join our new discord server:)
+
+https://discord.gg/QZxMesvb
